@@ -14,7 +14,7 @@ I build data pipelines, RAG systems and serverless backends on AWS. I led an AI 
 - 🥇 **1st Place, Generation Thailand Hackathon** (out of 127 teams): **SkillPath**, an evidence-based system that reverse-compiles real Thai job postings into skill gaps against a student's actual curriculum.
 - 🏅 **Finalist, Alibaba Cloud Hackathon**: AI-powered quiz platform.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -67,7 +67,7 @@ I build data pipelines, RAG systems and serverless backends on AWS. I led an AI 
 ![Athena](https://img.shields.io/badge/Athena-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/Step_Functions-E7157B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## 📌 Projects
+## Projects
 
 | Project | Description |
 |---|---|
