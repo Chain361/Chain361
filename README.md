@@ -1,35 +1,69 @@
-## Hi, I'm Chain361 👋
+## Hi, I'm Phonlakrit Chaimanee 👋
 
-Computer Science student at Thammasat University. I build data pipelines, AI apps, and full-stack tools, and I play CTFs on the side.
+Computer Science student at Thammasat University. building data pipelines, RAG systems and serverless AWS backends. Led an AI fraud-risk POC with AGICAFET
+from OCR to LLM evaluation, and led the 1st-place out of 127 teams at Generation Thailand Hackathon.
 
-- 🔭 Working on **FinRisk**, a fraud-risk engine and dashboard for local government budgets
-- 🌱 Learning data engineering (dbt, pipelines), RAG and LLM agents (MCP, A2A)
-- 🚩 Writing up CTF solutions in [myCTFwriteups](https://github.com/Chain361/myCTFwriteups)
+## Achievements
+- 🥇1st Place Winner, Generation Thailand Hackathon: SkillPath, an evidence-based system that reverse-compiles
+real Thai job postings into skill gaps against a student’s actual curriculum.
+- Finalist, Alibaba Cloud Hackathon:  AI-powered quiz platform 
 
-### 🛠️ Tech
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-### 📌 Projects
+### Web & Devops
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+
+
+### Data Engineering Tools
+
+- Apache Airflow
+- DBT
+- Snowflake
+- Pyspark
+- Pandas
+
+### Databases
+- Postgres
+- Supabase
+- Vector Databases (Chroma, Pinecone)
+- NoSQL (DynamoDB)
+
+### Cloud (AWS)
+- Lambda
+- API Gateway
+- DynamoDB
+- CloudFront
+- S3
+- Glue
+- Athena
+- Step Functions
+
+
+
+
+
+### Projects
 
 | Project | What it is |
 |---|---|
-| [FinRisk-Backend](https://github.com/Chain361/FinRisk-Backend) | Budget fraud-risk engine for Thai municipalities, built on e-GP procurement data (FastAPI + PostgreSQL) |
+| [Smart Faculty Navigator](https://github.com/Gikeeeeeee/CS361_G06) | Campus navigation platform that lets students navigate to their destination room. |
+| [FinRisk-Backend](https://github.com/Chain361/FinRisk-Backend) | Budget fraud-risk engine for Thai municipalities, built on e-GP procurement data |
 | [FinRisk-Frontend](https://github.com/Chain361/FinRisk-Frontend) | Angular + Tailwind dashboard for the FinRisk risk analytics |
-| [HRPilot](https://github.com/Chain361/HRPilot) | HR assistant app written in Python |
-| [quiz-generator](https://github.com/Chain361/quiz-generator) | Quiz generator built with Next.js + Supabase |
-| [bubble](https://github.com/Chain361/bubble) | Matches university freshers with peers by course and faculty |
-| [Review-Restaurant-Stantee-TU](https://github.com/Chain361/Review-Restaurant-Stantee-TU) | Restaurant review site for the TU campus |
+| [HRPilot](https://github.com/Chain361/HRPilot) | HR assistant app |
+| [quiz-generator](https://github.com/Chain361/quiz-generator) |  AI-powered quiz platform |
 
-### 📊 Stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chain361&layout=compact&hide_border=true)
+
