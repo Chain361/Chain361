@@ -50,6 +50,14 @@ I build data pipelines, RAG systems and serverless backends on AWS. I led an AI 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
+**AI / LLM**
+
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Typhoon OCR](https://img.shields.io/badge/Typhoon_OCR-0EA5E9?style=for-the-badge)
+
 **Cloud (AWS)**
 
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
