@@ -55,7 +55,6 @@ I build data pipelines, RAG systems and serverless backends on AWS. I led an AI 
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Typhoon OCR](https://img.shields.io/badge/Typhoon_OCR-0EA5E9?style=for-the-badge)
 
 **Cloud (AWS)**
